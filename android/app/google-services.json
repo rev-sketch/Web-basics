@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "720405381605",
+    "firebase_url": "https://moneymind-15ffb-default-rtdb.firebaseio.com",
+    "project_id": "moneymind-15ffb",
+    "storage_bucket": "moneymind-15ffb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720405381605:android:47f0f05a0a57ebc99b2f0c",
+        "android_client_info": {
+          "package_name": "com.moneymind"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyV5H4l475HuS7q59dkHad0UQuIXfcgos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

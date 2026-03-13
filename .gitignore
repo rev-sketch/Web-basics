@@ -1,0 +1,17 @@
+# React Native / Android
+android/.gradle
+android/app/build
+android/build
+android/app/.cxx
+
+# Node
+node_modules
+
+# Logs
+*.log
+
+# Local config
+local.properties
+
+# macOS
+.DS_Store
